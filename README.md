@@ -1,2 +1,2 @@
-# NUMICRON FIRS LANDING PAGE
+# NUMICRON FIRST LANDING PAGE
 This is a V0.1 of our first landing page for NUMICRON.
